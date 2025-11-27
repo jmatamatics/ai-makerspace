@@ -1,0 +1,36 @@
+# Python virtual environments
+activate/
+.venv/
+venv/
+env/
+
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Development files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment variables
+.env
+.env.local
+.env*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
