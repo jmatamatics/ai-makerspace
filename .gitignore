@@ -213,3 +213,4 @@ __marimo__/
 
 # Vercel
 .vercel
+.env*.local
